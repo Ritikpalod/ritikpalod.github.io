@@ -1,1 +1,0 @@
-# ritikpalod.github.io
