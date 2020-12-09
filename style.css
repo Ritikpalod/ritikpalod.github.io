@@ -213,9 +213,7 @@ section .title::after{
 .about .title::after{
     content: "who am i";
 }
-.about .about-content .left{
-    
-}
+
 .about .about-content .left img{
     height: 400px;
     width: 400px;
@@ -336,9 +334,6 @@ section .title::after{
     border-radius: 50%;
     border: 5px solid tomato;
     transition: all 0.3s ease;
-}
-.project-1, .project-2{
-    url
 }
 .teams .carousel .card:hover img{
     border-color: #fff;
