@@ -337,6 +337,9 @@ section .title::after{
     border: 5px solid tomato;
     transition: all 0.3s ease;
 }
+.project-1, .project-2{
+    url
+}
 .teams .carousel .card:hover img{
     border-color: #fff;
 }
