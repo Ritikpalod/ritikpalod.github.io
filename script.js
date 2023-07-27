@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Developer", "Marketer", "Investor", "Freelancer"],
+        strings: ["ReactJS Developer", "Javascript Developer", "Wordpress Developer", "VueJS Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Developer", "Investor", "Marketer", "Freelancer"],
+        strings: ["ReactJS Developer", "Javascript Developer", "Wordpress Developer", "VueJS Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -70,3 +70,27 @@ $(document).ready(function(){
         }
     });
 });
+
+
+    function redirectToWebsite() {
+        window.open('https://tesla-ritik.netlify.app', '_blank')
+    }
+
+    function redirectToTravelWebsite() {
+        window.open('https://travel-website-ritik.netlify.app/', '_blank')
+    }
+
+    function redirectToDoList() {
+        window.open('https://todo-ritik.netlify.app', '_blank')
+    }
+    function redirectToWordpress() {
+        window.open('https://ritikpalod.com/', '_blank')
+    }
+
+    function redirectToMarketing() {
+        window.open('https://prajwalpalod.github.io/', '_blank')
+    }
+
+    function redirectToStopWatch() {
+        window.open('https://stopwatch-ritik.netlify.app', '_blank')
+    }
